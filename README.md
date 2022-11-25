@@ -85,4 +85,5 @@ I am a Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 <a href="https://medium.com/@shaikabdulkhadar571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaikabdulkhadar571" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shaikabdulkhada2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikabdulkhada2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaikabdulkhadar571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikabdulkhadar571" height="30" width="40" /></a>
+<a href="https://linktr.ee/shaikabdulkhadar" target="blank"><img align="center" src="https://github.com/shaikabdulkhadar1/shaikabdulkhadar1/blob/main/icons8-linktree.svg" height="30" width="30" alt="ShaikAbdulKhadar"/></a>
 </p>
