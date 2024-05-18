@@ -28,7 +28,7 @@ I am a Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - 📫 How to reach me **shaikabdulkhadar571@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/11fH9iu_UNRPw5MtLueAPRjFFQnA-mIOG/view?usp=sharing](https://drive.google.com/file/d/1eJOI5hZ3963k3Hq7Ne7FRvDIWwQZtmVu/view?usp=drive_link)https://drive.google.com/file/d/1eJOI5hZ3963k3Hq7Ne7FRvDIWwQZtmVu/view?usp=drive_link)">**Resume**</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eJOI5hZ3963k3Hq7Ne7FRvDIWwQZtmVu/view">**Resume**</a>
 
 ---
 
